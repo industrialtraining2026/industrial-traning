@@ -1,0 +1,82 @@
+{
+  "history": [
+    {
+      "deadline_date": "2026-01-15",
+      "reminder_type": "general",
+      "status": "failed",
+      "sent_time": "2026-01-08T15:25:35.929288",
+      "recipient_count": 2
+    },
+    {
+      "deadline_date": "2026-01-15",
+      "reminder_type": "general",
+      "status": "failed",
+      "sent_time": "2026-01-08T15:26:35.479850",
+      "recipient_count": 2
+    },
+    {
+      "deadline_date": "2026-01-15",
+      "reminder_type": "general",
+      "status": "failed",
+      "sent_time": "2026-01-08T15:27:12.867608",
+      "recipient_count": 2
+    },
+    {
+      "deadline_date": "2026-01-15",
+      "reminder_type": "general",
+      "status": "failed",
+      "sent_time": "2026-01-08T15:28:03.942885",
+      "recipient_count": 2
+    },
+    {
+      "deadline_date": "2026-01-17",
+      "reminder_type": "general",
+      "status": "failed",
+      "sent_time": "2026-01-08T15:30:38.870163",
+      "recipient_count": 2
+    },
+    {
+      "deadline_date": "2026-01-17",
+      "reminder_type": "general",
+      "status": "failed",
+      "sent_time": "2026-01-08T15:31:02.074831",
+      "recipient_count": 2
+    },
+    {
+      "deadline_date": "2026-01-17",
+      "reminder_type": "general",
+      "status": "failed",
+      "sent_time": "2026-01-08T15:38:31.708228",
+      "recipient_count": 2
+    },
+    {
+      "deadline_date": "2026-01-17",
+      "reminder_type": "general",
+      "status": "failed",
+      "sent_time": "2026-01-08T15:55:11.385182",
+      "recipient_count": 2
+    },
+    {
+      "deadline_date": "2026-01-17",
+      "reminder_type": "general",
+      "status": "failed",
+      "sent_time": "2026-01-08T16:20:23.884092",
+      "recipient_count": 2
+    },
+    {
+      "deadline_date": "2026-01-17",
+      "reminder_type": "general",
+      "status": "sent",
+      "sent_time": "2026-01-08T16:27:47.888574",
+      "recipient_count": 2
+    },
+    {
+      "deadline_date": "2026-01-17",
+      "reminder_type": "general",
+      "status": "sent",
+      "sent_time": "2026-01-08T20:19:24.976394",
+      "recipient_count": 1
+    }
+  ],
+  "last_updated": "2026-01-08T20:19:24.977153"
+}
